@@ -570,6 +570,22 @@ hr{
     font-size: 10px;
     width: 100%;
 }
+.container{
+	width:100%;
+	padding:0 !important;
+}
+img{
+	width:100%;
+}
+.header_area{
+	width:100%;
+}
+.logo_area{
+	width:100%;
+}
+.logo_area img{
+	Width:100%;
+}
 .footer_area .footer_left .footer_content img{
 	padding:10px;
 	width:100%;
